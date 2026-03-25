@@ -20,4 +20,3 @@ Este directorio es el centro de mando de todos mis proyectos personales.
 - Cada subcarpeta es un proyecto independiente con su propio repo Git
 - Para trabajar en un proyecto específico, abre Claude Code en esa subcarpeta
 - Este CLAUDE.md es el índice general — mantenido automáticamente al crear proyectos
-- Todos los proyectos sincronizan con GitHub bajo el usuario: oxcarod
