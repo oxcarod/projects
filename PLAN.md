@@ -42,9 +42,23 @@ Registro de avances, decisiones y cambios realizados en el centro de mando.
 
 - [ ] Agregar primer contenido al asistente (nota, idea o pendiente)
 - [ ] Registrar proyecto existente en `Claude Projects/`
-- [ ] Vincular `medSystem` al centro de mando
 - [ ] Explorar la carpeta `Claude Projects/` y registrar lo que hay
 
 ---
 
-*Última actualización: 2026-03-24*
+## 2026-03-25 — Integración de medSystem
+
+### Lo que se hizo
+- **medSystem movido** de ubicación original a `projects/medSystem/`
+- **Repo creado** en GitHub: https://github.com/oxcarod/medSystem
+- **Commit inicial** con todo el código (cache incluido)
+- **`.claude/` removido** del historial por contener tokens sensibles
+- **Registrado** en tabla de proyectos del CLAUDE.md raíz
+
+### Pendiente en medSystem
+- [ ] Limpiar/refinar carpeta `data/prospectos/cache/` (1.9MB de cache de scraping)
+- [ ] Continuar con siguiente etapa del PLAN.md interno del proyecto
+
+---
+
+*Última actualización: 2026-03-25*

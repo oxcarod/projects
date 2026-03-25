@@ -7,6 +7,7 @@ Este directorio es el centro de mando de todos mis proyectos personales.
 | Proyecto | Estado | Descripción | Última actividad |
 |---|---|---|---|
 | asistente | Activo | Centro personal de información, ideas, pendientes y datos | 2026-03-24 |
+| medSystem | Activo | Sistema de ventas de equipo médico con scraping, CRM Notion y análisis de mercado | 2026-03-25 |
 
 ## Comandos útiles
 
